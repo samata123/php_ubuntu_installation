@@ -1,0 +1,7 @@
+0.go to root folder and install composersudo apt install composer
+1.check the folder create permision sudo chmod  777 -R htdocs
+create a folder in opt/lampp/ xampp
+2. check if xampp running sudo ./xampp status
+3. start xampp by going to opt/lampp/> sudo ./xampp start
+4.then run composer create-project slim/slim-skeleton [my-app-name] (check https://github.com/slimphp/Slim-Skeleton)
+5.
