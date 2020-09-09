@@ -5,3 +5,4 @@ create a folder in opt/lampp/ xampp
 3. start xampp by going to opt/lampp/> sudo ./xampp start
 4.then run composer create-project slim/slim-skeleton [my-app-name] (check https://github.com/slimphp/Slim-Skeleton)
 5.you can even clone the github repo
+6.https://linux4one.com/how-to-install-xampp-on-ubuntu-18-04
