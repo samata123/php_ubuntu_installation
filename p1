@@ -1,8 +1,16 @@
 0.go to root folder and install composersudo apt install composer
 1.check the folder create permision sudo chmod  777 -R htdocs
-create a folder in opt/lampp/ xampp
+create a folder in opt/lampp/ 
 2. check if xampp running sudo ./xampp status
 3. start xampp by going to opt/lampp/> sudo ./xampp start
 4.then run composer create-project slim/slim-skeleton [my-app-name] (check https://github.com/slimphp/Slim-Skeleton)
-5.you can even clone the github repo
+5.you can even clone the github repo. git clone http://git.fhpro.in/cnd/cwc.git
 6.https://linux4one.com/how-to-install-xampp-on-ubuntu-18-04
+7.if there is any localserver connection please connect to it like 
+open in crome localhost\phpmyadmin
+Host: 10.10.10.9
+User: cndlocal
+Pass: eL%Pp8XR2rLKc3&M 
+
+8.add this db credential to your project config file
+9.in opt/lampp/htdocs install composer and update it. so it  creates vendor folder
