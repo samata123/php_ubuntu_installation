@@ -13,4 +13,4 @@ User: cndlocal
 Pass: eL%Pp8XR2rLKc3&M 
 
 8.add this db credential to your project config file
-9.in opt/lampp/htdocs install composer and update it. so it  creates vendor folder
+9.in opt/lampp/htdocs install composer and update it. so it  creates vendor folder(check https://getcomposer.org/doc/00-intro.md)
