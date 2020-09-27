@@ -14,3 +14,5 @@ Pass: eL%Pp8XR2rLKc3&M
 
 8.add this db credential to your project config file
 9.in opt/lampp/htdocs install composer and update it. so it  creates vendor folder(check https://getcomposer.org/doc/00-intro.md)
+
+10.for FCC and Rtc to run we need to run the sudo apt install redis-server.in the fcc folder
